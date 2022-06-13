@@ -44,7 +44,6 @@ int _strcspn(char *string, char *chars)
 				return (s - string);
 	return (s - string);
 }
-
 /**
  * _strchr - locates a character in a string
  * @s: string to be searched
