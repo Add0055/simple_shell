@@ -13,7 +13,6 @@ int countArgs(char **args)
 		i++;
 	return (i);
 }
-
 /**
 * _atoi - change string to an integer
 * @s: input string
