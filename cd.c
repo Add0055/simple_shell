@@ -21,7 +21,6 @@ int cdFunc(config *build)
 		updateEnviron(build);
 	return (1);
 }
-
 /**
  * cdToHome - change directory to home
  * @build: input build
