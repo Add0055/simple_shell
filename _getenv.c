@@ -10,7 +10,6 @@ char *_getenv(char *input, char **environ)
 {
 	register int i = 0;
 	char *tok, *right;
-
 	while (environ[i])
 	{
 		tok = _strtok(environ[i], "=");
