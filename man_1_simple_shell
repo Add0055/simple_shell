@@ -1,9 +1,9 @@
 .
-.TH man 15 "May 2022" "ALX-Holberton School" "0x16. C - Simple Shell"
+.TH man 15 "Jun 2022" "ALX" "0x16. C - Simple Shell"
 .SH NAME
 .B shellby\fR \- simple UNIX command interpreter
 .SH SYNOPSIS
-..B #include \(dqholberton.h\(dq
+..B #include \(main.h\(dq
 .sp
 .B int hsh(void)
 .SH DESCRIPTION
