@@ -65,7 +65,6 @@ int exitFunc(config *build)
 	}
 	return (1);
 }
-
 /**
  * historyFunc - displays command history
  * @build: input build
